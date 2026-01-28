@@ -4,7 +4,8 @@ I'm a full-stack web developer, pretty much.
 
 ## 👤 Current position
 
-Freelance & 3rd year student at [l'Ecole Multimedia](https://www.ecole-multimedia.com) in Paris.
+- 3rd year student at [l'Ecole Multimedia](https://www.ecole-multimedia.com) in Paris.
+- Fullstack web developer intern at [Histia](https://www.histia.net/),located at [Station F](https://stationf.co/) in Paris.
 
 ## 🔧 Technologies & Tools
 
@@ -15,6 +16,7 @@ Freelance & 3rd year student at [l'Ecole Multimedia](https://www.ecole-multimedi
 - ViteJS
 - Database stuff (MySQL, PostGreSQL, etc.)
 - TailwindCSS + popular component libs (Shadcn, DaisyUI)
+- Docker
 
 ## 📈 GitHub Stats
 
