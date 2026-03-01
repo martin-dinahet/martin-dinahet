@@ -18,10 +18,6 @@ I'm a full-stack web developer, pretty much.
 - TailwindCSS + popular component libs (Shadcn, DaisyUI)
 - Docker
 
-## 📈 GitHub Stats
-
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martin-dinahet&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
 - **Email:** [martin.dinahet@proton.me](mailto:martin.dinahet@proton.me)
