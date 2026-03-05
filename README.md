@@ -25,5 +25,3 @@ I'm a full-stack web developer, pretty much.
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 Have a nice day 😃
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-dinahet)](https://github.com/anuraghazra/github-readme-stats)
